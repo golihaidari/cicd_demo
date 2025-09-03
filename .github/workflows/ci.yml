@@ -24,4 +24,4 @@ jobs:
       run: javac App.java
 
     - name: Run Java
-      run: java -cp App
+      run: java -cp . App
