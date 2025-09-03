@@ -21,7 +21,7 @@ jobs:
         java-version: '17'
 
     - name: Compile Java
-      run: javac src/App.java
+      run: javac App.java
 
     - name: Run Java
-      run: java -cp src App
+      run: java -cp App
