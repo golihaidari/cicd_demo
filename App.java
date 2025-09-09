@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, CI/CD!");
-        System.out.println("input is chosen by system.");
+        System.out.println("input is selected by system.");
         int x = countdown(3);
         System.out.println("result: " + x);
     }
