@@ -3,7 +3,7 @@ public class App {
         System.out.println("Hello, CI/CD!");
         System.out.println("x is chosen by system.");
         int x = countdown(3);
-        System.out.println("x: " + x);
+        System.out.println("result: " + x);
     }
     
     // helper method for testing
